@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ > <img src="https://img.shields.io/badge/C-White?style=plastic&logo=C&logoColor=#3776AB"/>
+ > <img src="https://img.shields.io/badge/C++-blue?style=plastic&logo=C++&logoColor=#A8B9CC"/>
+ > <img src="https://img.shields.io/badge/NestJs-orange?style=plastic&logo=nestjs&logoColor=#E0234E"/>
+  > <img src="https://img.shields.io/badge/Python-yellow?style=plastic&logo=Python&logoColor=#E0234E"/>
+
+![hogisim314's GitHub stats](https://github-readme-stats.vercel.app/api?username=hogisim314&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hogisim314)](https://solved.ac/hogisim314/)
