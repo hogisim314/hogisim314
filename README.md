@@ -1,5 +1,5 @@
 ### Hi there 👋
-studying computer science at hanyang university💻
+studying computer science💻
 
 <!--
 **hogisim314/hogisim314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
