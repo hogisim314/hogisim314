@@ -1,5 +1,5 @@
 ### Hi there 👋
-Interested In DevOps, MLOps, K8S, InfraStructure
+Interested In Linux, Kernel, SRE, Architecture, MLOps, K8S, InfraStructure
 
 Contact : hogisim314@gmail.com
 
